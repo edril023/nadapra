@@ -1,0 +1,12 @@
+body{
+    color: whitesmoke;
+    background-color: powderblue;
+}
+.center{
+    position: absolute;
+    top: -27%;
+    left: 10%;
+    right: 0%;
+    margin: auto;
+    transform: scale(0.5)
+}
